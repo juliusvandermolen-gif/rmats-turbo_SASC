@@ -1,0 +1,2 @@
+ID	GeneID	geneSymbol	chr	strand	longExonStart_0base	longExonEnd	shortES	shortEE	flankingES	flankingEE
+8814	"ENSG00000132746"	"ALDH3B2"	chr11	-	67434044	67434275	67434044	67434165	67434376	67434487

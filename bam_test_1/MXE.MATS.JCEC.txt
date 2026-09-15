@@ -1,0 +1,2 @@
+ID	GeneID	geneSymbol	chr	strand	1stExonStart_0base	1stExonEnd	2ndExonStart_0base	2ndExonEnd	upstreamES	upstreamEE	downstreamES	downstreamEE	ID	IJC_SAMPLE_1	SJC_SAMPLE_1	IJC_SAMPLE_2	SJC_SAMPLE_2	IncFormLen	SkipFormLen	PValue	FDR	IncLevel1	IncLevel2	IncLevelDifference
+1179	"ENSG00000011347"	"SYT7"	chr11	-	61313502	61313727	61314006	61314131	61309682	61310051	61314648	61314780	1179	0,1	1,0	0,2	0,2	174	274	1	1.0	0.0,1.0	NA,0.612	-0.112

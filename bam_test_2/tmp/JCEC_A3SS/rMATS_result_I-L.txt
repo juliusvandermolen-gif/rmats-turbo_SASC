@@ -1,0 +1,2 @@
+IncLevel1	IncLevel2	IncLevelDifference
+0.402,0.0	0.0,NA	0.201

@@ -1,0 +1,2 @@
+ID	GeneID	geneSymbol	chr	strand	riExonStart_0base	riExonEnd	upstreamES	upstreamEE	downstreamES	downstreamEE	ID	IJC_SAMPLE_1	SJC_SAMPLE_1	IJC_SAMPLE_2	SJC_SAMPLE_2	IncFormLen	SkipFormLen	PValue	FDR	IncLevel1	IncLevel2	IncLevelDifference
+1166	"ENSG00000118046"	"STK11"	chr19	+	1220371	1220716	1220371	1220504	1220579	1220716	1166	0,1	0,0	0,0	0,1	98	49	1	1.0	NA,1.0	NA,0.0	1.0

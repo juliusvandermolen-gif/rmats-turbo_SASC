@@ -1,0 +1,2 @@
+ID	GeneID	geneSymbol	chr	strand	longExonStart_0base	longExonEnd	shortES	shortEE	flankingES	flankingEE	ID	IJC_SAMPLE_1	SJC_SAMPLE_1	IJC_SAMPLE_2	SJC_SAMPLE_2	IncFormLen	SkipFormLen	PValue	FDR	IncLevel1	IncLevel2	IncLevelDifference
+1273	"ENSG00000104904"	"OAZ1"	chr19	+	2272709	2272819	2272733	2272819	2271780	2271953	1273	1,0	1,1	0,0	1,0	73	49	1	1.0	0.402,0.0	0.0,NA	0.201

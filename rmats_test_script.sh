@@ -11,9 +11,11 @@ rmats.py \
   --b1 b1.txt \
   --b2 b2.txt \
   --gtf gtf/Homo_sapiens.Ensembl.GRCh37.75.gtf \
-  --od bam_test \
+  --od bam_test_2 \
   -t paired \
   --tmp temp_output_rmats \
   --readLength 50 \
   --cstat 0.0001 \
-  --libType fr-unstranded
+  --libType fr-unstranded \
+  --novelSS \
+  --individual-counts \

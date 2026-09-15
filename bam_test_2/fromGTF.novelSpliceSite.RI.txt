@@ -1,0 +1,2 @@
+ID	GeneID	geneSymbol	chr	strand	riExonStart_0base	riExonEnd	upstreamES	upstreamEE	downstreamES	downstreamEE
+6651	"ENSG00000132746"	"ALDH3B2"	chr11	-	67433786	67434275	67433786	67433872	67434044	67434275
