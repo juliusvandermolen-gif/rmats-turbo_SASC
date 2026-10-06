@@ -1,0 +1,60 @@
+IOError: [Errno 2] No such file or directory: '/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/gencode_annotation_trunc.gtf'
+Exception IOError: (2, 'No such file or directory', '/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/gencode_annotation_trunc.gtf') in 'rmats.rmatspipeline.parse_gtf' ignored
+ZeroDivisionError: float division
+Exception ZeroDivisionError: 'float division' in 'rmats.rmatspipeline.statistic' ignored
+WARNING: A .rmats file was found with no bams listed in it. Ignoring that file: temp_output_FRASER/2026-10-06-09_17_47_661013_12.rmats
+WARNING: A .rmats file was found with no bams listed in it. Ignoring that file: temp_output_FRASER/2026-10-06-09_17_47_661013_11.rmats
+WARNING: A .rmats file was found with no bams listed in it. Ignoring that file: temp_output_FRASER/2026-10-06-09_17_47_661013_13.rmats
+WARNING: A .rmats file was found with no bams listed in it. Ignoring that file: temp_output_FRASER/2026-10-06-09_17_47_661013_5.rmats
+WARNING: A .rmats file was found with no bams listed in it. Ignoring that file: temp_output_FRASER/2026-10-06-09_17_47_661013_3.rmats
+WARNING: A .rmats file was found with no bams listed in it. Ignoring that file: temp_output_FRASER/2026-10-06-09_17_47_661013_9.rmats
+WARNING: A .rmats file was found with no bams listed in it. Ignoring that file: temp_output_FRASER/2026-10-06-09_17_47_661013_4.rmats
+WARNING: A .rmats file was found with no bams listed in it. Ignoring that file: temp_output_FRASER/2026-10-06-09_17_47_661013_15.rmats
+WARNING: A .rmats file was found with no bams listed in it. Ignoring that file: temp_output_FRASER/2026-10-06-09_17_47_661013_7.rmats
+WARNING: A .rmats file was found with no bams listed in it. Ignoring that file: temp_output_FRASER/2026-10-06-09_17_47_661013_14.rmats
+WARNING: A .rmats file was found with no bams listed in it. Ignoring that file: temp_output_FRASER/2026-10-06-09_17_47_661013_18.rmats
+WARNING: A .rmats file was found with no bams listed in it. Ignoring that file: temp_output_FRASER/2026-10-06-09_17_47_661013_1.rmats
+WARNING: A .rmats file was found with no bams listed in it. Ignoring that file: temp_output_FRASER/2026-10-06-09_17_47_661013_16.rmats
+WARNING: A .rmats file was found with no bams listed in it. Ignoring that file: temp_output_FRASER/2026-10-06-09_17_47_661013_17.rmats
+WARNING: A .rmats file was found with no bams listed in it. Ignoring that file: temp_output_FRASER/2026-10-06-09_17_47_661013_8.rmats
+WARNING: A .rmats file was found with no bams listed in it. Ignoring that file: temp_output_FRASER/2026-10-06-09_17_47_661013_2.rmats
+WARNING: A .rmats file was found with no bams listed in it. Ignoring that file: temp_output_FRASER/2026-10-06-09_17_47_661013_19.rmats
+WARNING: A .rmats file was found with no bams listed in it. Ignoring that file: temp_output_FRASER/2026-10-06-09_17_47_661013_6.rmats
+
+/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00106.bam given 2 times in input
+
+/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00116.bam given 2 times in input
+
+/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00150.bam given 2 times in input
+/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00096_ncbi.bam given 2 times in input
+
+/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00149.bam given 2 times in input
+
+/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00176.bam given 2 times in input
+
+/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00132.bam given 2 times in input
+
+/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00111.bam given 2 times in input
+
+/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00103.bam given 2 times in input
+
+/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00126.bam given 2 times in input
+
+/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00106.bam not found in .rmats files
+
+/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00116.bam not found in .rmats files
+
+/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00150.bam not found in .rmats files
+/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00096_ncbi.bam found 2 times in .rmats files
+
+/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00149.bam not found in .rmats files
+
+/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00176.bam not found in .rmats files
+
+/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00132.bam not found in .rmats files
+
+/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00111.bam not found in .rmats files
+
+/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00103.bam not found in .rmats files
+
+/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00126.bam not found in .rmats files

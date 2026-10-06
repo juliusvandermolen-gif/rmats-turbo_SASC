@@ -1,0 +1,65 @@
+gtf: 0.760987043381
+There are 805 distinct gene ID in the gtf file
+There are 2378 distinct transcript ID in the gtf file
+There are 540 one-transcript genes in the gtf file
+There are 14161 exons in the gtf file
+There are 336 one-exon transcripts in the gtf file
+There are 313 one-transcript genes with only one exon in the transcript
+Average number of transcripts per gene is 2.954037
+Average number of exons per transcript is 5.955004
+Average number of exons per transcript excluding one-exon tx is 6.770323
+Average number of gene per geneGroup is 1.187829
+statistic: 0.000348091125488
+Fail to open 
+/exports/sascstudent/jmvandermolen1/Developer/drop_demo_fraser2/Data/rna_bam/HG00106.bamFail to open 
+/exports/sascstudent/jmvandermolen1/Developer/drop_demo_fraser2/Data/rna_bam/HG00132.bam
+Fail to open 
+/exports/sascstudent/jmvandermolen1/Developer/drop_demo_fraser2/Data/rna_bam/HG00116.bam
+
+Fail to open 
+/exports/sascstudent/jmvandermolen1/Developer/drop_demo_fraser2/Data/rna_bam/HG00176.bam
+Fail to open 
+/exports/sascstudent/jmvandermolen1/Developer/drop_demo_fraser2/Data/rna_bam/HG00111.bam
+Fail to open 
+/exports/sascstudent/jmvandermolen1/Developer/drop_demo_fraser2/Data/rna_bam/HG00150.bamFail to open 
+/exports/sascstudent/jmvandermolen1/Developer/drop_demo_fraser2/Data/rna_bam/HG00132.bam
+Fail to open 
+/exports/sascstudent/jmvandermolen1/Developer/drop_demo_fraser2/Data/rna_bam/HG00126.bam
+
+Fail to open 
+/exports/sascstudent/jmvandermolen1/Developer/drop_demo_fraser2/Data/rna_bam/HG00111.bam
+Fail to open 
+/exports/sascstudent/jmvandermolen1/Developer/drop_demo_fraser2/Data/rna_bam/HG00149.bam
+Fail to open 
+/exports/sascstudent/jmvandermolen1/Developer/drop_demo_fraser2/Data/rna_bam/HG00149.bam
+Fail to open 
+/exports/sascstudent/jmvandermolen1/Developer/drop_demo_fraser2/Data/rna_bam/HG00116.bamFail to open 
+/exports/sascstudent/jmvandermolen1/Developer/drop_demo_fraser2/Data/rna_bam/HG00176.bamFail to open 
+/exports/sascstudent/jmvandermolen1/Developer/drop_demo_fraser2/Data/rna_bam/HG00150.bam
+
+
+Fail to open 
+/exports/sascstudent/jmvandermolen1/Developer/drop_demo_fraser2/Data/rna_bam/HG00126.bam
+Fail to open 
+/exports/sascstudent/jmvandermolen1/Developer/drop_demo_fraser2/Data/rna_bam/HG00103.bam
+Fail to open 
+/exports/sascstudent/jmvandermolen1/Developer/drop_demo_fraser2/Data/rna_bam/HG00106.bam
+Fail to open 
+/exports/sascstudent/jmvandermolen1/Developer/drop_demo_fraser2/Data/rna_bam/HG00103.bam
+
+read outcome totals across all BAMs
+USED: 0
+NOT_PAIRED: 3756
+NOT_NH_1: 119834
+NOT_EXPECTED_CIGAR: 0
+NOT_EXPECTED_READ_LENGTH: 0
+NOT_EXPECTED_STRAND: 0
+EXON_NOT_MATCHED_TO_ANNOTATION: 0
+JUNCTION_NOT_MATCHED_TO_ANNOTATION: 0
+CLIPPED: 1790
+total: 125380
+outcomes by BAM written to: temp_output_FRASER/2026-10-06-09_32_51_636734_read_outcomes_by_bam.txt
+
+novel: 0.381491184235
+The splicing graph and candidate read have been saved into temp_output_FRASER/2026-10-06-09_32_51_636734_*.rmats
+save: 0.311555147171

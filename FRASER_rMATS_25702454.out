@@ -1,0 +1,63 @@
+gtf: 0.00019383430481
+There are 0 distinct gene ID in the gtf file
+There are 0 distinct transcript ID in the gtf file
+There are 0 one-transcript genes in the gtf file
+There are 0 exons in the gtf file
+There are 0 one-exon transcripts in the gtf file
+There are 0 one-transcript genes with only one exon in the transcript
+statistic: 6.38961791992e-05
+Fail to open /exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00096_ncbi.bam
+Fail to open 
+/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00103.bam
+Fail to open 
+/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00132.bamFail to open 
+/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00150.bamFail to open 
+/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00111.bam
+
+Fail to open 
+/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00106.bam
+
+Fail to open 
+/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00132.bamFail to open 
+/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00116.bam
+Fail to open 
+/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00106.bam
+
+Fail to open 
+/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00176.bam
+Fail to open 
+/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00116.bam
+Fail to open 
+/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00149.bamFail to open 
+/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00176.bamFail to open 
+/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00126.bam
+
+
+Fail to open 
+/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00149.bamFail to open 
+/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00111.bam
+
+Fail to open /exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00096_ncbi.bam
+Fail to open 
+/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00126.bam
+Fail to open 
+/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00150.bam
+Fail to open 
+/exports/sascstudent/jmvandermolen1/drop_demo_fraser2/Data/rna_bam/HG00103.bam
+
+read outcome totals across all BAMs
+USED: 0
+NOT_PAIRED: 0
+NOT_NH_1: 0
+NOT_EXPECTED_CIGAR: 0
+NOT_EXPECTED_READ_LENGTH: 0
+NOT_EXPECTED_STRAND: 0
+EXON_NOT_MATCHED_TO_ANNOTATION: 0
+JUNCTION_NOT_MATCHED_TO_ANNOTATION: 0
+CLIPPED: 0
+total: 0
+outcomes by BAM written to: temp_output_FRASER/2026-10-06-09_20_49_354169_read_outcomes_by_bam.txt
+
+novel: 0.00505805015564
+The splicing graph and candidate read have been saved into temp_output_FRASER/2026-10-06-09_20_49_354169_*.rmats
+save: 0.0904297828674

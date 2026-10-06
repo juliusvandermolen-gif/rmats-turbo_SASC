@@ -1,0 +1,2 @@
+usage: rmats.py [options]
+rmats.py: error: argument -t: invalid choice: '/exports/sascstudent/jmvandermolen1/Developer/rmats_LOO_tmp/HG00096_ncbi' (choose from 'paired', 'single')
