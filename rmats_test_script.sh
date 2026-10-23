@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#SBATCH --job-name=rMATS_NMD
+#SBATCH --job-name=rMATS_NMD_1
 #SBATCH --output=%x_%j.out
 #SBATCH --error=%x_%j.err
 #SBATCH --mail-user="j.m.van_der_molen@lumc.nl"
@@ -15,8 +15,8 @@ module load tools/miniconda/python3.12/24.9.2
 source /share/software/tools/miniconda/3.12/24.9.2/etc/profile.d/conda.sh
 conda activate /exports/sascstudent/jmvandermolen1/conda_envs/rmats_env
 
-OUT=/exports/sascstudent/jmvandermolen1/Developer/rmats_turbo_SASC/NMD_24
-TMP=/exports/sascstudent/jmvandermolen1/Developer/rmats_turbo_SASC/NMD_24/NMD_24_tmp
+OUT=/exports/sascstudent/jmvandermolen1/Developer/rmats_turbo_SASC/NMD_1
+TMP=/exports/sascstudent/jmvandermolen1/Developer/rmats_turbo_SASC/NMD_1/NMD_1_tmp
 mkdir -p "$OUT" "$TMP"
 
 rmats.py \
@@ -29,4 +29,4 @@ rmats.py \
   --readLength 151 \
   --libType fr-firststrand \
   --novelSS \
-  --nthread 8 \
+  --nthread 8
