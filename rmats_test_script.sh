@@ -30,7 +30,7 @@ rmats.py \
   --od "$OUT" \
   --tmp "$TMP" \
   -t paired \
-  --readLength 75 \
+  --readLength 151 \
   --libType fr-unstranded \
   --novelSS \
   --nthread 8 \
